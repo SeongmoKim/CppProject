@@ -117,6 +117,7 @@ void ShowAllCusInfo(void)
 	int i;
 	for (i = 0; i < cusOfNum; i++)
 	{
+
 		cout << "No. " << i + 1 << endl;
 		cout << "旨收收收收收收收收收收收收收收收收收收收" << endl;
 		cout << "早啗謝ID: " << cusList[i].accountId << endl;
